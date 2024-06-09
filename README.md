@@ -1,4 +1,4 @@
-![logo](https://github.com/reduanhaiderrifat/reduanhaiderrifat/blob/main/gallery.png)
+![logo](https://github.com/reduanhaiderrifat/reduanhaiderrifat/blob/main/rifat.png)
 <h1 align="center">Hi 👋, I'm Reduan Haider Rifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
